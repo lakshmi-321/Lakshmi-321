@@ -52,21 +52,11 @@
 
 ## 🚀 Projects
 
-<div align="center">
+[![SpotEasy](https://img.shields.io/badge/SpotEasy-MERN_App-blue?style=for-the-badge&logo=react)](https://spoteasy.netlify.app)  
+*Responsive MERN web app connecting users to multiple services.*  
 
-<a href="https://spoteasy.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/SpotEasy-MERN_App-blue?style=for-the-badge&logo=react" alt="SpotEasy">
-</a>
-
-<p><i>Responsive MERN web app connecting users to multiple services</i></p>
-
-<a href="https://www.surgylife.com" target="_blank">
-<img src="https://img.shields.io/badge/SurgyLife-HealthTech-green?style=for-the-badge&logo=node.js" alt="SurgyLife">
-</a>
-
-<p><i>Full-stack health platform for appointments & hospital services</i></p>
-
-</div>
+[![SurgyLife](https://img.shields.io/badge/SurgyLife-HealthTech-green?style=for-the-badge&logo=node.js)](https://www.surgylife.com)  
+*Full-stack health platform for appointments & hospital services.*  
 
 ---
 
